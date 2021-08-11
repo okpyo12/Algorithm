@@ -1,5 +1,5 @@
 # Algorithm
-##알고리즘 공부
+## 알고리즘 공부
 
 <details>
   <summary>Baekjoon Algorithm</summary>
