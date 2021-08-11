@@ -1,12 +1,12 @@
 # Algorithm
-알고리즘 공부
+##알고리즘 공부
 
 <details>
   <summary>Baekjoon Algorithm</summary>
   <div markdown="1">
   
  <details>
-   <summary>CLASS 1 문제 보기</summary>
+   <summary>&nbsp;&nbsp;&nbsp;[CLASS 1] 문제 보기</summary>
     <div markdown="1">
   
 - [[1000] A+B](https://github.com/okpyo12/Algorithm/tree/master/CLASSS%201/Baekjoon_1000)
