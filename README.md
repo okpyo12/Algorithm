@@ -4,7 +4,6 @@
 <details>
   <summary>Baekjoon Algorithm</summary>
   <div markdown="1">
-  <br/>
   
  <details>
    <summary>&nbsp;&nbsp;&nbsp;[CLASS 1] 문제 보기</summary>
@@ -56,7 +55,6 @@
   <details>
   <summary>Programmers Algorithm</summary>
   <div markdown="1">
-  <br/>
   
   <details>
    <summary>&nbsp;&nbsp;&nbsp;Level 1 문제 보기</summary>
