@@ -59,7 +59,7 @@
   <details>
    <summary>&nbsp;&nbsp;&nbsp;Level 1 문제 보기</summary>
    
-   - [시저 암호](https://github.com/okpyo12/Algorithm/tree/master/Programmers/Level%201)
+   - [시저 암호](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
    
     <div markdown="1">
     
