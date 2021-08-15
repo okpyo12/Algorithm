@@ -2,9 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fad5a76-0b74-422a-8ce9-a500b718ad67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers Algorithm/Level 1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers Algorithm/Level 1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1000/Baekjoon_1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1000/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1001/Baekjoon_1001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1001/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1008/Baekjoon_1008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1008/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10171/Baekjoon_10171.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10171/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10172/Baekjoon_10172.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10172/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10809/Baekjoon_10809.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10809/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10818/Baekjoon_10818.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10818/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10869/Baekjoon_10869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10869/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10871/Baekjoon_10871.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10871/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10950/Baekjoon_10950.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10950/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10951/Baekjoon10951.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10951/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10952/Baekjoon_10952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10952/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10998/Baekjoon_10998.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_10998/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1152/Baekjoon_1152.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1152/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1157/Baekjoon_1157.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1157/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_11654/Baekjoon_11654.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_11654/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_11720/Baekjoon_11720.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_11720/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1330/Baekjoon_1330.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1330/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1546/Baekjoon_1546.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1546/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2438/Baekjoon_2438.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2438/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2439/Baekjoon_2439.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2439/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2475/Baekjoon_2475.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2475/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2557/Baekjoon_2557.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2557/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2562/Baekjoon_2562.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2562/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2577/Baekjoon_2577.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2577/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2675/Baekjoon_2675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2675/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2739/Baekjoon_2739.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2739/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2741/Baekjoon_2741.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2741/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2742/Baekjoon_2742.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2742/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2753/Baekjoon_2753.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2753/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2884/Baekjoon_2884.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2884/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2908/Baekjoon_2908.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2908/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2920/Baekjoon_2920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2920/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_3052/Baekjoon_3052.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_3052/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_8958/Baekjoon_8958.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_8958/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_9498/Baekjoon_9498.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_9498/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +86,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="608">
-                <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+              <first_editor relative-caret-position="627">
+                <caret line="33" column="111" selection-start-line="33" selection-start-column="111" selection-end-line="33" selection-end-column="111" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 1/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="757">
+                <caret line="46" column="12" selection-end-line="46" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="209">
+                <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -31,7 +127,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="380">
-                <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+                <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_2742/README.md" />
         <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_2753/README.md" />
         <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_2884/README.md" />
         <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_2920/README.md" />
@@ -117,12 +212,13 @@
         <option value="$PROJECT_DIR$/Programmers Algorithm/Level 1/시저 암호/README.md" />
         <option value="$PROJECT_DIR$/Programmers Algorithm/Level 1/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="784" />
-    <option name="y" value="62" />
+    <option name="x" value="763" />
+    <option name="y" value="85" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -151,7 +247,7 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Baekjoon Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASSS 1" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASS 1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -180,7 +276,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -445,26 +541,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="문제 설명 README 추가" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2739/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2741/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_2741/Baekjoon_2741.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -814,22 +890,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers Algorithm/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers Algorithm/README.md" />
+    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/README.md" />
     <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -840,11 +902,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="627">
+            <caret line="33" column="111" selection-start-line="33" selection-start-column="111" selection-end-line="33" selection-end-column="111" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programmers Algorithm/Level 1/시저 암호/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="380">
-            <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -860,11 +932,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 1/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="608">
-            <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+          <first_editor relative-caret-position="757">
+            <caret line="46" column="12" selection-end-line="46" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
