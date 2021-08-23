@@ -15,6 +15,8 @@
 - [[1874] 스택 수열](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_1874)
 - [[1920] 수 찾기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_1920)
 - [[1929] 소수 구하기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_1929)
+- [[1966] 프린트 큐](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_1966)
+- [[1978] 소수 찾기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_1978)
 
   </div>
   </details>
