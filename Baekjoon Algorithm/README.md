@@ -1,9 +1,5 @@
 # Baekjonn Algorithm
 ## 알고리즘 공부
-
-<details>
-  <summary>Baekjoon Algorithm</summary>
-  <div markdown="1">
   
  <details>
    <summary>&nbsp;&nbsp;&nbsp;[CLASS 1] 문제 보기</summary>
@@ -67,8 +63,5 @@
 - [[2108] 통계학](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2108)
 
   </div>
-  </details>
-      
-    </div>
   </details>
   
