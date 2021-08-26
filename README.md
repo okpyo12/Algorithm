@@ -68,6 +68,7 @@
 - [[2164] 카드2](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2164)
 - [[2231] 분해합](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2231)
 - [[2292] 벌집](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2292)
+- [[2609] 최대공약수와 최소공배수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2609)
 
   </div>
   </details>
