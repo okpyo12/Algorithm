@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fad5a76-0b74-422a-8ce9-a500b718ad67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Baekjoon Algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon Algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/Baekjoon_2775.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,25 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="468">
-                <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="456">
-                <caret line="63" column="27" lean-forward="true" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/Baekjoon_2775.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -53,8 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_10818/Baekjoon_10818.py" />
-        <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_10869/Baekjoon_10869.py" />
         <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_10871/Baekjoon_10871.py" />
         <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_10950/Baekjoon_10950.py" />
         <option value="$PROJECT_DIR$/CLASSS 1/Baekjoon_10951/Baekjoon10951.py" />
@@ -104,6 +88,8 @@
         <option value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2751/Baekjoon_2751.py" />
         <option value="$PROJECT_DIR$/Baekjoon Algorithm/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/README.md" />
+        <option value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/Baekjoon_2775.py" />
       </list>
     </option>
   </component>
@@ -139,6 +125,13 @@
               <item name="Baekjoon Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="CLASS 2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASS 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon_2775" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,23 +141,23 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2751" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2775" />
+      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2751" />
+      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2609" />
+      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2292" />
+      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2231" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\표상우\Desktop\Algorithm\Programmers Algorithm\Level 1\시저 암호" />
       <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm" />
       <recent name="C:\Users\표상우\Desktop\Algorithm\CLASSS 1" />
       <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon_1157" />
       <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon_1152" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2751" />
-      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2609" />
-      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2292" />
-      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2231" />
-      <recent name="C:\Users\표상우\Desktop\Algorithm\Baekjoon Algorithm\CLASS 2\Baekjoon_2164" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,28 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Baekjoon_2751">
-    <configuration name="Baekjoon_2164" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2164" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2164/Baekjoon_2164.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Baekjoon_2775">
     <configuration name="Baekjoon_2231" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,13 +257,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Baekjoon_2775" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/Baekjoon_2775.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Baekjoon_2775" />
         <item itemvalue="Python.Baekjoon_2751" />
         <item itemvalue="Python.Baekjoon_2609" />
         <item itemvalue="Python.Baekjoon_2292" />
         <item itemvalue="Python.Baekjoon_2231" />
-        <item itemvalue="Python.Baekjoon_2164" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +386,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2008547" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2008547" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -423,8 +416,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="문제 설명 README 추가" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_11720/README.md" />
-    <entry file="file://$PROJECT_DIR$/Programmers/Level 1/시저 암호.py" />
     <entry file="file://$PROJECT_DIR$/Programmers/README.md" />
     <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASSS 1/Baekjoon_1000/README.md" />
     <entry file="file://$PROJECT_DIR$/Programmers Algorithm/README.md" />
@@ -771,6 +762,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="297">
+            <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -781,13 +782,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/README.md">
+    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="468">
-            <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+          <first_editor relative-caret-position="304">
+            <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon Algorithm/CLASS 2/Baekjoon_2775/Baekjoon_2775.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
