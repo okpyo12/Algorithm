@@ -67,6 +67,7 @@
 - [[2609] 최대공약수와 최소공배수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2609)
 - [[2751] 수 정렬하기2](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2751)
 - [[2775] 부녀회장이 될테야](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2775)
+- [[2798] 블랙잭](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2798)
 
   </div>
   </details>
