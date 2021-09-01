@@ -69,6 +69,7 @@
 - [[2775] 부녀회장이 될테야](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2775)
 - [[2798] 블랙잭](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2798)
 - [[2805] 나무 자르기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2805)
+- [[2839] 나무 자르기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2839)
 
   </div>
   </details>
