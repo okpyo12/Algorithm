@@ -71,6 +71,7 @@
 - [[2805] 나무 자르기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2805)
 - [[2839] 설탕 배달](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2839)
 - [[2869] 달팽이는 올라가고 싶다](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2869)
+- [[4153] 직각삼각형](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_5153)
 
   </div>
   </details>
