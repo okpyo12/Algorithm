@@ -80,6 +80,7 @@
 - [[7568] 덩치](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_7568)
 - [[9012] 괄호](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_9012)
 - [[10250] ACM 호텔](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_10250)
+- [[10773] 제로](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_10773)
 
   </div>
   </details>
