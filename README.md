@@ -77,6 +77,9 @@
 - [[2869] 달팽이는 올라가고 싶다](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_2869)
 - [[4153] 직각삼각형](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_4153)
 - [[4949] 균형잡힌 세상](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_4949)
+- [[7568] 덩치](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_7568)
+- [[9012] 괄호](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_9012)
+- [[10250] ACM 호텔](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_10250)
 
   </div>
   </details>
