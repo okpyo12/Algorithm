@@ -89,6 +89,7 @@
 - [[10989] 수 정렬하기 3](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_10989)
 - [[11050] 이항 계수1](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_11050)
 - [[11650] 좌표 정렬하기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_11650)
+- [[11651] 좌표 정렬하기 2](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%202/Baekjoon_11651)
 
   </div>
   </details>
