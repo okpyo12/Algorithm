@@ -9,3 +9,5 @@ for i in range(T):
         X, Y = map(int, sys.stdin.readline().split())
         arr.append([X,Y])
     print(arr)
+
+print(1)
