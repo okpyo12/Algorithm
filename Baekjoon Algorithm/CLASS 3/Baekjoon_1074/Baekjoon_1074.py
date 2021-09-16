@@ -16,9 +16,10 @@ def Z(size, row, col):
     
     if not (row <= r < row + size and col <= c < col + size):
         cnt += size**2
-        return
+        return True
     Z(size / 2, row, col)
     Z(size / 2, row, col + size / 2)
     Z(size / 2, row + size / 2, col)
     Z(size / 2, row + size / 2, col + size / 2)
+
 Z(2**N, 0, 0)
