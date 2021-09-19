@@ -11,9 +11,8 @@ for i in range(len(num)-len(arr)):
     for j in range(len(arr)):
         if num[i] == arr[j]:
             del num[i]
-print(num)
 
-"""a = ''
+a = ''
 for i in N:
     if i in num:
         cnt += 1
@@ -22,6 +21,8 @@ for i in N:
         temp = []
         for j in num:
             temp.append()
-        a += max(temp)"""
+        for j in range(len(temp)):
 
+            temp[j] = temp[j] - i
+        a += max(temp)
 print(cnt)
