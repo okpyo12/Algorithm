@@ -1,28 +1,17 @@
 import sys
 
-N = str(sys.stdin.readline())
+num = {str(i) for i in range(10)}
+N = int(sys.stdin.readline())
 M = int(sys.stdin.readline())
-arr = list(map(str, sys.stdin.readline().split()))
+if M != 0:
+        num -= set(map(str, input().split()))
 
-num = ['0','1','2','3','4','5','6','7','8','9']
-channel = 100
-cnt = 0
-for i in range(len(num)-len(arr)):
-    for j in range(len(arr)):
-        if num[i] == arr[j]:
-            del num[i]
-
-a = ''
-for i in N:
-    if i in num:
-        cnt += 1
-        a += i
-    else:
-        temp = []
-        for j in num:
-            temp.append()
-        for j in range(len(temp)):
-
-            temp[j] = temp[j] - i
-        a += max(temp)
-print(cnt)
+min_cnt = abs(100 - N)
+for i in range(1000001):
+        i = str(i)
+        for j in range(len(i)):
+            if i[j] not in num:
+                break
+            elif j == len(i) - 1:
+                min_cnt = min(min_cnt, abs(N - int(i)) + len(str(i)))
+print(min_cnt)
