@@ -107,6 +107,7 @@
 - [[1389] 케빈 베이컨의 6단계 법칙](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1389)
 - [[1463] 1로 만들기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1463)
 - [[1541] 잃어버린 괄호](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1541)
+- [[1620] 나는야 포켓몬 마스터 이다솜](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1620)
 
   </div>
   </details>
