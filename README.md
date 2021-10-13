@@ -109,7 +109,7 @@
 - [[1541] 잃어버린 괄호](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1541)
 - [[1620] 나는야 포켓몬 마스터 이다솜](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1620)
 - [[1676] 팩토리얼 0의 개수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1676)
-- [[1697] 팩토리얼 0의 개수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1697)
+- [[1697] 숨바꼭질](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1697)
 
   </div>
   </details>
@@ -123,6 +123,7 @@
   
   <details>
    <summary>&nbsp;&nbsp;&nbsp;Level 1 문제 보기</summary>
+   <div markdown="1">
    
    - [시저 암호](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
    - [완주하지 못한 선수](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
@@ -131,7 +132,7 @@
    - [수박수박수박수박수박수?](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F)
    - [같은 숫자는 싫어](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
    
-    <div markdown="1">
+    
     
   </div>
   </details>
