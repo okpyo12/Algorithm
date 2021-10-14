@@ -106,5 +106,6 @@
 - [[1620] 나는야 포켓몬 마스터 이다솜](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1620)
 - [[1676] 팩토리얼 0의 개수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1676)
 - [[1697] 숨바꼭질](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1697)
+- [[1764] 듣보잡](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1764)
   </div>
   </details>
