@@ -107,5 +107,6 @@
 - [[1676] 팩토리얼 0의 개수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1676)
 - [[1697] 숨바꼭질](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1697)
 - [[1764] 듣보잡](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1764)
+- [[1780] 종이의 개수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1780)
   </div>
   </details>
