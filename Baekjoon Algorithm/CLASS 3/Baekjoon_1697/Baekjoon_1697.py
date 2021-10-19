@@ -19,4 +19,4 @@ def bfs():
                 dist[j] = dist[x] +1
                 q.append(j)
 
-bfs()
+bfs() 
