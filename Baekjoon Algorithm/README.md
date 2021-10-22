@@ -108,5 +108,6 @@
 - [[1697] 숨바꼭질](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1697)
 - [[1764] 듣보잡](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1764)
 - [[1780] 종이의 개수](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1780)
+- [[1927] 최소 힙](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1927)
   </div>
   </details>
