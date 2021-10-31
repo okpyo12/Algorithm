@@ -14,5 +14,7 @@
 - [같은 숫자는 싫어](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
 - [로또의 최고 순위와 최저 순위](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)
 - [신규 아이디 추천](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
+- [평균 구하기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+
   </div>
   </details>
