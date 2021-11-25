@@ -140,6 +140,7 @@
    - [완주하지 못한 선수](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
    - [제일 작은 수 제거하기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
    - [직사각형 별찍기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0)
+   - [짝수와 홀수](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
    - [평균 구하기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
    - [x만큼 간격이 있는 n개의 숫자](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)
   </div>
