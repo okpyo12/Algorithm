@@ -115,6 +115,7 @@
 - [[1927] 최소 힙](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1927)
 - [[1931] 회의실 배정](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1931)
 - [[1992] 쿼드트리](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1992)
+- [[2178] 미로 탐색](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2178)
 - [[2606] 바이러스](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2606)
   </div>
   </details>
