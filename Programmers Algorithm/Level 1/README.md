@@ -15,6 +15,7 @@
 - [문자열 다루기 기본](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8)
 - [문자열을 정수로 바꾸기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 - [서울에서 김서방 찾기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
+- [소수 찾기](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 - [수박수박수박수박수박수?](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F)
 - [숫자 문자열과 영단어](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
 - [시저 암호](https://github.com/okpyo12/Algorithm/tree/master/Programmers%20Algorithm/Level%201/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
