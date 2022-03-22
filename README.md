@@ -116,8 +116,9 @@
 - [[1931] 회의실 배정](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1931)
 - [[1992] 쿼드트리](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_1992)
 - [[2178] 미로 탐색](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2178)
-- [[2579] 바이러스](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2579)
+- [[2579] 계단오르기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2579)
 - [[2606] 바이러스](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2606)
+- [[2630] 색종이 만들기](https://github.com/okpyo12/Algorithm/tree/master/Baekjoon%20Algorithm/CLASS%203/Baekjoon_2630)
   </div>
   </details>
         
