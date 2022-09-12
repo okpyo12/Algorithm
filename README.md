@@ -6,7 +6,7 @@
   <summary>Algolab-Algorithm(2022)</summary>
   <div markdown="1">
 
-- [[BubbleSort]]()
+- [[BubbleSort]](https://github.com/okpyo12/Algorithm/tree/master/Algolab-Algorithm(2022)/BubbleSort)
 
   </div>
   </details>

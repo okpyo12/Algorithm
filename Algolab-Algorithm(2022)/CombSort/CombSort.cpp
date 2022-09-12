@@ -33,7 +33,7 @@ void combSort(int a[], int n)
     int countSwaps = 0;  // swap 함수 실행 횟수
 
     int gap = n;
-    int shrink = 1.3;
+    double shrink = 1.3;
 
     bool sorted = false;
 
@@ -45,8 +45,17 @@ void combSort(int a[], int n)
             gap = 1;
             sorted = true;
         }
-        else if (int i = 0)
+        int i = 0;
+        while (i + gap < n)
         {
+            countCmpOps++;
+            if (a[i] > a[i + gap])
+            {
+                swap(&a[i], &a[i + gap]);
+                countSwaps++;
+                sorted = false;
+            }
+            i++;
         }
     }
     printf("%d %d ", countCmpOps, countSwaps);
