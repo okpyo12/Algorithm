@@ -58,5 +58,6 @@ void combSort(int a[], int n)
             i++;
         }
     }
-    printf("%d %d ", countCmpOps, countSwaps);
+    printf("%d %d", countCmpOps, countSwaps);
+    printf("\n");
 }
