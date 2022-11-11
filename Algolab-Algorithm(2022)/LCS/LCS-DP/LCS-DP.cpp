@@ -10,6 +10,7 @@ char arr[MAX_LENGTH];
 
 int LCS_DP(char s[], char t[], int m, int n);
 
+
 int main()
 {
     int numTestCase;
@@ -21,7 +22,7 @@ int main()
         cin >> p;
         int m = q.size();
         int n = p.size();
-        int idx;
+        int idx = 0;
         char s[m];
         char t[n];
         for (int i = 0; i < m; i++)
@@ -37,9 +38,23 @@ int main()
             arr[i] = '\0';
         }
         cout << LCS_DP(s, t, m, n) << " ";
-        for (idx = 0; arr[idx] != 0;)
+        while (m != 0 and n != 0)
         {
-            idx++;
+            if (S[m][n] == 0)
+            {
+                arr[idx] = s[m - 1];
+                idx++;
+                m--;
+                n--;
+            }
+            else if (S[m][n] == 1)
+            {
+                n--;
+            }
+            else if (S[m][n] == 2)
+            {
+                m--;
+            }
         }
         for (idx = 0; arr[idx] != 0;)
         {
@@ -82,37 +97,6 @@ int LCS_DP(char s[], char t[], int m, int n)
                 else
                 {
                     S[i][j] = 2;
-                }
-            }
-        }
-    }
-    int idx = 0;
-    for (int i = m; i >= 0;)
-    {
-        for (int j = n; j >= 0;)
-        {
-            if (L[i][j] == 0)
-            {
-                i = -1;
-                j = -1;
-                break;
-            }
-            if (s[i - 1] == t[j - 1])
-            {
-                arr[idx] = s[i - 1];
-                idx++;
-                i--;
-                j--;
-            }
-            else
-            {
-                if (L[i][j] == L[i][j - 1])
-                {
-                    j--;
-                }
-                else
-                {
-                    i--;
                 }
             }
         }
