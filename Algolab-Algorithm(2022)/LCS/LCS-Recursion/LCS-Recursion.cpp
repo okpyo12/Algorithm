@@ -34,13 +34,11 @@ int LCS_Recursion(char s[], char t[], int m, int n)
 {
     if (m == 0 || n == 0)
     {
-        S[m][n] = 0;
-        return S[m][n];
+        return 0;
     }
     if (s[m - 1] == t[n - 1])
     {
-        S[m][n] = LCS_Recursion(s, t, m - 1, n - 1) + 1;
-        return S[m][n];
+        return 1 + LCS_Recursion(s, t, m - 1, n - 1);
     }
     return max(LCS_Recursion(s, t, m - 1, n), LCS_Recursion(s, t, m, n - 1));
 }
