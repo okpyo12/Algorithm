@@ -6,10 +6,9 @@ using namespace std;
 #define MAX(a, b) ((a) > (b) ? (a) : (b))
 
 int L[MAX_LENGTH][MAX_LENGTH], S[MAX_LENGTH][MAX_LENGTH];
-char arr[MAX_LENGTH];
 
 int LCS_DP(char s[], char t[], int m, int n);
-
+void printLCS(char s[], char t[], int m, int n);
 
 int main()
 {
@@ -17,53 +16,27 @@ int main()
     cin >> numTestCase;
     for (int i = 0; i < numTestCase; i++)
     {
-        string q, p;
-        cin >> q;
-        cin >> p;
-        int m = q.size();
-        int n = p.size();
-        int idx = 0;
-        char s[m];
-        char t[n];
-        for (int i = 0; i < m; i++)
+        char s[MAX_LENGTH], t[MAX_LENGTH];
+        cin >> s;
+        cin >> t;
+        int m, n;
+        for (m = 0; s[m] != 0;)
         {
-            s[i] = q[i];
+            m++;
         }
-        for (int i = 0; i < n; i++)
+        for (n = 0; t[n] != 0;)
         {
-            t[i] = p[i];
+            n++;
         }
-        for (int i = 0; i < max(m, n); i++)
+        for (int i = 0; i < MAX_LENGTH; i++)
         {
-            arr[i] = '\0';
+            for (int j = 0; j < MAX_LENGTH; j++)
+            {
+                L[i][j] = -1;
+            }
         }
         cout << LCS_DP(s, t, m, n) << " ";
-        while (m != 0 and n != 0)
-        {
-            if (S[m][n] == 0)
-            {
-                arr[idx] = s[m - 1];
-                idx++;
-                m--;
-                n--;
-            }
-            else if (S[m][n] == 1)
-            {
-                n--;
-            }
-            else if (S[m][n] == 2)
-            {
-                m--;
-            }
-        }
-        for (idx = 0; arr[idx] != 0;)
-        {
-            idx++;
-        }
-        for (int i = idx; i >= 0; i--)
-        {
-            cout << arr[i];
-        }
+        printLCS(s, t, m, n);
         cout << endl;
     }
 }
@@ -102,4 +75,32 @@ int LCS_DP(char s[], char t[], int m, int n)
         }
     }
     return L[m][n];
+}
+
+void printLCS(char s[], char t[], int m, int n)
+{
+    char arr[MAX_LENGTH] = {};
+    int idx = 0;
+    while (m != 0 and n != 0)
+    {
+        if (S[m][n] == 0)
+        {
+            arr[idx] = s[m - 1];
+            m--;
+            n--;
+            idx++;
+        }
+        else if (S[m][n] == 1)
+        {
+            n--;
+        }
+        else if (S[m][n] == 2)
+        {
+            m--;
+        }
+    }
+    for (int i = idx - 1; i >= 0; i--)
+    {
+        cout << arr[i];
+    }
 }
