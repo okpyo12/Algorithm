@@ -1,4 +1,4 @@
-# [커트라인]](https://www.acmicpc.net/problem/25305)
+# [커트라인](https://www.acmicpc.net/problem/25305)
 
 <div align = center>
 
