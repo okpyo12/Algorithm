@@ -2,12 +2,11 @@ import sys
 
 input = sys.stdin.readline
 
-N = int(input().rstrip())
+N = int(input())
+arr = [input().rstrip() for _ in range(N)]
 
-arr = list(set(input().rstrip() for _ in range(N)))
+arr = list(set(arr))
+arr.sort(key = lambda x : (len(x), x))
 
-arr = sorted(arr)
-answer = sorted(arr, key=lambda x: len(x))
-
-for i in answer:
+for i in arr:
     print(i)
